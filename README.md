@@ -1,4 +1,4 @@
-# Hola desde rama main
+# Hola desde el mergeo
 Primer proyecto de HTML, CSS y Javascript
 Este es un proyecto donde hablo de mi mascota, el proyecto tiene 3 secciones:
 - Sección 1: Información sobre mi mascota
